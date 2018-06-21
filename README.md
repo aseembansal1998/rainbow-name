@@ -1,2 +1,2 @@
 # rainbow-name
-name of different colors in rainbows i.e "green"
+name of different colors in rainbows "hello"
